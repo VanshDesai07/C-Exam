@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Practical Exam
 
 ## question1 - 
@@ -21,3 +22,6 @@
 ## question7 - 
 
 !['question7'](images/Q7.png)
+=======
+
+>>>>>>> e207bebd9eae89764a5587cfe4b3f9d2595b61fa
