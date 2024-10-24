@@ -3,6 +3,7 @@
 
 ## question1 - 
 !['question1'](images/Q1.png)
+<img src="./Images/Q1.png"/>
 
 ## question2 - 
 !['question2'](images/Q2.png)
